@@ -4,7 +4,7 @@
 * [Evolution Simulator]()
 * [Dragon Catching/Raising Game]()
 * [Live Lecture Images]()
-* [Live Clock]()
+* [Live Clock](clock.html)
 
 # Short Stories / Fiction
 * [The Wrong Train]()
